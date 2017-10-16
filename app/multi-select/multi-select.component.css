@@ -1,0 +1,90 @@
+.section {
+    
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:white;
+    border: 1px solid grey;
+    height : auto;
+    width: 1000px;
+    border-spacing: 10px 50px;
+    margin:0 auto;
+ 
+    
+}
+.section1 {
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:white;
+    border: 1px solid grey;
+    height : 400px;
+    width: 1000px;
+    border-spacing: 10px 50px;
+    margin:0 auto;
+   
+}
+
+.section2 {
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:white;
+    border: 1px solid grey;
+    height : 60px;
+    width: 1000px;
+    border-spacing: 10px 50px;
+    margin:0 auto;
+   
+}
+table {
+    float:left;
+    width:33%;
+}
+
+#sav {
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:#236093;
+    color:white;
+    border-radius: 15px;
+    
+}
+
+#sav1 {
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:#236093;
+    color:white;
+    border-radius: 15px;
+     height: 35px;
+     width: 100px;
+    
+}
+
+#sav2 {
+    
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid ; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    background-color:white;
+    color:#236093;
+    border-radius: 15px;
+    border-color: #236093;
+    height: 35px;
+    width: 100px;
+    
+}

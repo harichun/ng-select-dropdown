@@ -1,0 +1,16 @@
+
+     <div style="display: inline">
+         <table>
+        <tr>
+       <td>    <select class="seel" #select [(ngModel)]="current" (change)="isSpecial(select.value)">
+            <option *ngFor="let item of list" [value]="item.name">{{item.name}}</option>
+          </select> 
+        </td>
+
+       <td>
+           <div *ngIf="(select.value=='Special')"><input id="input1" type ="text"  placeholder="enter"/>
+           </div>
+         </td>
+        </tr>
+       </table>
+     </div>  
